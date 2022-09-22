@@ -2,4 +2,5 @@
 
 ## Topic Includes
 
-###Strings
+Strings- 
+     A string value is a collection of one and more characters put in single , double , triple quotes.
