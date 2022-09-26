@@ -7,13 +7,13 @@
      
 >#### Operators-
 > -  operators are use to perform operation on variables and values.
- -     1.Arithmetic Operators
- -     2.comparison Operators
- -     3.Assignment Operators
- -     4.Logical Operators
- -     5.Bitwise Operators
- -     6.Membership Operators
- -     7.Identity Operators
+   - 1.Arithmetic Operators
+   - 2.comparison Operators
+   - 3.Assignment Operators
+   - 4.Logical Operators
+   - 5.Bitwise Operators
+   - 6.Membership Operators
+   - 7.Identity Operators
 
 >#### Lists
  -  A list object is an ordered collection of one or more data items, not necessarily of the same type ,put in square brackets
@@ -37,4 +37,3 @@
       - 2.Keyword arguments 
       - 3.Default arguments
       - 4.Variable-length arguments
-            
