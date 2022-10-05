@@ -39,3 +39,5 @@
       - 4.Variable-length arguments
 
 #### Module 
+   > modules are the simply files with the ".py" extension containing python code that can be imported inside another Python program
+   
